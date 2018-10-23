@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 3efa39998b36dcd4194769817208f4da
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base HumanHead
+    100002: Base HumanLCalf
+    100004: Base HumanLCollarbone
+    100006: Base HumanLDigit11
+    100008: Base HumanLDigit12
+    100010: Base HumanLDigit13
+    100012: Base HumanLFoot
+    100014: Base HumanLForearm
+    100016: Base HumanLPalm
+    100018: Base HumanLPlatform
+    100020: Base HumanLThigh
+    100022: Base HumanLUpperarm
+    100024: Base HumanNeck1
+    100026: Base HumanNeck2
+    100028: Base HumanRCalf
+    100030: Base HumanRCollarbone
+    100032: Base HumanRDigit11
+    100034: Base HumanRDigit12
+    100036: Base HumanRDigit13
+    100038: Base HumanRFoot
+    100040: Base HumanRForearm
+    100042: Base HumanRibcage
+    100044: Base HumanRPalm
+    100046: Base HumanRPlatform
+    100048: Base HumanRThigh
+    100050: Base HumanRUpperarm
+    100052: Base HumanSpine1
+    100054: Base HumanSpine2
+    100056: Base HumanSpine3
+    100058: Base HumanSpine4
+    100060: Bengala_bone
+    100062: body
+    100064: hair
+    100066: HumanPelvis
+    100068: //RootNode
+    400000: Base HumanHead
+    400002: Base HumanLCalf
+    400004: Base HumanLCollarbone
+    400006: Base HumanLDigit11
+    400008: Base HumanLDigit12
+    400010: Base HumanLDigit13
+    400012: Base HumanLFoot
+    400014: Base HumanLForearm
+    400016: Base HumanLPalm
+    400018: Base HumanLPlatform
+    400020: Base HumanLThigh
+    400022: Base HumanLUpperarm
+    400024: Base HumanNeck1
+    400026: Base HumanNeck2
+    400028: Base HumanRCalf
+    400030: Base HumanRCollarbone
+    400032: Base HumanRDigit11
+    400034: Base HumanRDigit12
+    400036: Base HumanRDigit13
+    400038: Base HumanRFoot
+    400040: Base HumanRForearm
+    400042: Base HumanRibcage
+    400044: Base HumanRPalm
+    400046: Base HumanRPlatform
+    400048: Base HumanRThigh
+    400050: Base HumanRUpperarm
+    400052: Base HumanSpine1
+    400054: Base HumanSpine2
+    400056: Base HumanSpine3
+    400058: Base HumanSpine4
+    400060: Bengala_bone
+    400062: body
+    400064: hair
+    400066: HumanPelvis
+    400068: //RootNode
+    2100000: 'Material #28'
+    2100002: 'Material #26'
+    4300000: body
+    4300002: hair
+    7400000: idleRecepcionista
+    9500000: //RootNode
+    13700000: body
+    13700002: hair
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idleRecepcionista
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
