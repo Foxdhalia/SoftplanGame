@@ -44,11 +44,13 @@ public class controlPlay : MonoBehaviour {
                 if (hit.collider)
                 {
                     countTagAction++;
+                    print(countTagAction);
                 }
                 if (hit.collider.tag != "npcs" && countTagAction >= 2)
                 {
                     Motor.MoveToPoint(hit.point);
                     RemoveFocus();
+                    print(0 + " 0");
                 } 
                 
                 else
@@ -61,9 +63,9 @@ public class controlPlay : MonoBehaviour {
                         
                         setFocus(interactable);
                         countTagAction = 0;
-
+                        interactable = null;
                     }
-                    
+                    print(2 + " 0");
                 }
             }
         }
