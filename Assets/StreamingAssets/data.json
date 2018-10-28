@@ -181,6 +181,24 @@
 			"Em 2016 a Softplan mudou sua sede para o Sapiens Parque, em Florianópolis",
 			"Incrível não é mesmo"
          ]
+      },
+	  {
+         "name":"conversaPadrinho_01",
+         "text":[
+			"Olá eu sou seu padrinho e não seu o que dizer 1."
+         ]
+      },
+	  {
+         "name":"conversaPadrinho_02",
+         "text":[
+			"Olá eu sou seu padrinho e não seu o que dizer 2."
+         ]
+      },
+	  {
+         "name":"conversaPadrinho_03",
+         "text":[
+			"Olá eu sou seu padrinho e não seu o que dizer 3."
+         ]
       }
    ] 
 }
