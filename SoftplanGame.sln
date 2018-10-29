@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{975A2D08-6D16-28B5-4188-3B5547D0AACE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftplanGame", "Assembly-CSharp-firstpass.csproj", "{975A2D08-6D16-28B5-4188-3B5547D0AACE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{06C85533-2B59-C696-132F-A7883323A16C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftplanGame", "Assembly-CSharp.csproj", "{06C85533-2B59-C696-132F-A7883323A16C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{E330E1D3-CFF2-B1F4-F2A1-CA7868B79194}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftplanGame", "Assembly-CSharp-Editor-firstpass.csproj", "{E330E1D3-CFF2-B1F4-F2A1-CA7868B79194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{D6E0E8AF-C162-77A7-FE56-00D7370B5045}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftplanGame", "Assembly-CSharp-Editor.csproj", "{D6E0E8AF-C162-77A7-FE56-00D7370B5045}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

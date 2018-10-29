@@ -35,7 +35,7 @@ public class UnityEvent_Padrinho : MonoBehaviour {
    public void countCaminhoDef()
     {
         //Verificar se o npc chegou no ponto expecificado;
-        if (C4_P[countCaminho].position.x == transformPersonagem.position.x && C4_P[countCaminho].position.z == transformPersonagem.position.z)
+        if (C4_P[countCaminho].position.x == transformPersonagem.position.x && C4_P[countCaminho].position.z == transformPersonagem.position.z && C4_P.Length - 1 >= countCaminho)
         {
             //Somar mais um;
             countCaminho++;
