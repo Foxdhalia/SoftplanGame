@@ -107,6 +107,7 @@
      <Compile Include="Assets\Scripts\Player\camera.cs" />
      <Compile Include="Assets\Scripts\Player\controlPlay.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMotor.cs" />
+     <Compile Include="Assets\Scripts\UI\Cracha.cs" />
      <Compile Include="Assets\Scripts\UI\TextFaceCamera.cs" />
      <Compile Include="Assets\SeeThrough\SeeThroughExampleManager.cs" />
      <Compile Include="Assets\SeeThrough\SeeThroughExampleTarget.cs" />
