@@ -95,6 +95,7 @@
      <Compile Include="Assets\Scripts\Events\Objects Interact\InteractableOdin.cs" />
      <Compile Include="Assets\Scripts\Events\Objects Interact\myEventOdin.cs" />
      <Compile Include="Assets\Scripts\Events\TriggerEvents\TriggerEvent.cs" />
+     <Compile Include="Assets\Scripts\Events\UnityEvents\UnityEvent_AddCollider.cs" />
      <Compile Include="Assets\Scripts\Events\UnityEvents\UnityEvent_AddEventsToTarget.cs" />
      <Compile Include="Assets\Scripts\Events\UnityEvents\UnityEvent_Aminator.cs" />
      <Compile Include="Assets\Scripts\Events\UnityEvents\UnityEvent_Animations.cs" />

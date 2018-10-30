@@ -25,7 +25,6 @@ public class UnityEvent_Padrinho : MonoBehaviour {
    {
         if (C4_P.Length-1 >= countCaminho)
         {
-            //enabledCollider();
             countCaminhoDef();
             //Movimentar para o ponto expecificado pelo countCaminho
             navMeshAgente.destination = C4_P[countCaminho].position;            
@@ -41,11 +40,5 @@ public class UnityEvent_Padrinho : MonoBehaviour {
             countCaminho++;
             //enabledCollider();
         }
-    }
-
-    void enabledCollider()
-    {
-        //desabilitar Collider;
-        colliderPersonagem.enabled = !colliderPersonagem;
     }
 }
