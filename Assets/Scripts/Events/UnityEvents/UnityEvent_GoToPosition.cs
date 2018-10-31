@@ -61,8 +61,8 @@ public class UnityEvent_GoToPosition : MonoBehaviour {
 
     private void Update()
     {
-        if(anim != null)
-            anim.SetFloat("velocidade", agent.velocity.magnitude);
+        //if(anim != null)
+           // anim.SetFloat("velocidade", agent.velocity.magnitude);
 
         if (playEventWhenReachDestination)
         {
