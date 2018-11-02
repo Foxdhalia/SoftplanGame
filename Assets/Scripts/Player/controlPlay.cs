@@ -101,23 +101,4 @@ public class controlPlay : MonoBehaviour {
         focus = null;
         Motor.StopFollowTarget(); 
     }
-
-
-    void OnTriggerEnter(Collider coll)
-    {
-        if (coll.gameObject.tag == "Turnstile")
-        {
-            Animator anim = coll.gameObject.GetComponent<Animator>();
-            if (transform.position.z <= -22.25f)
-            {
-                anim.SetTrigger("right");
-            }
-            if (transform.position.z >= -22.25f)
-            {
-                anim.SetTrigger("left");
-            }
-        
-        }
-    }
-
 }

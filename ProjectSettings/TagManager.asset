@@ -8,6 +8,8 @@ TagManager:
   - Turnstile
   - ActionButton
   - ActionB
+  - caminho_fora
+  - barreira
   layers:
   - Default
   - TransparentFX
