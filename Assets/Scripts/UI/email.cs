@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class email : MonoBehaviour {
     GameObject avisoEmail;
@@ -8,17 +6,11 @@ public class email : MonoBehaviour {
     // Use this for initialization
     void Start () {
         avisoEmail = GetComponent<GameObject>();
-        emailSoftPlan = FindObjectOfType<GameObject>();
     }
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 
     void abrirEmail()
     {
-        emailSoftPlan.gameObject.CompareTag("image_2");
+        emailSoftPlan.CompareTag("ima ge_2");
         Destroy(avisoEmail);
     }
 }
