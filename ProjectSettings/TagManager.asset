@@ -10,6 +10,7 @@ TagManager:
   - ActionB
   - caminho_fora
   - barreira
+  - imagem_2
   layers:
   - Default
   - TransparentFX
