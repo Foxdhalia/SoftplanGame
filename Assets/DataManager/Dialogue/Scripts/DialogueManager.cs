@@ -137,7 +137,7 @@ public class DialogueManager : MonoBehaviour {
 
     public void NextText(){
 		if (sentence < aux.Length) {
-			box.transform.GetChild (0).GetComponentInChildren<TextMeshProUGUI> ().text = System.Text.RegularExpressions.Regex.Unescape(aux[sentence]);
+			box.transform.GetChild (0).GetComponentInChildren<Text> ().text = System.Text.RegularExpressions.Regex.Unescape(aux[sentence]);
 			sentence += 1;
 		} else {
 			EndOfConversation ();
